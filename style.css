@@ -99,7 +99,7 @@ h1 {
 #card-color3 {
   background-color: #fff4d6;
 }
-#about-us {
+.about-us {
   display: flex;
   margin: 100px 10%;
 }
