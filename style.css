@@ -99,6 +99,21 @@ h1 {
 #card-color3 {
   background-color: #fff4d6;
 }
+#about-us {
+  display: flex;
+  margin: 100px 10%;
+}
+.half-width {
+  width: 50%;
+}
+.half-width p {
+  text-align: justify;
+}
+.half-width img {
+  height: 400px;
+  width: 400px;
+  border-radius: 10px;
+}
 #form-section {
   margin: 110px;
 }
